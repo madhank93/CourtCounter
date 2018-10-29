@@ -1,2 +1,2 @@
 # CourtCounter
-Court counter ( Android Nano Degree - Exercise 003 )
+Court counter ( Android Nano Degree - Exercise 002 )
